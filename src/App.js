@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Message from './Message';
 import "bootstrap/dist/css/bootstrap.min.css";
